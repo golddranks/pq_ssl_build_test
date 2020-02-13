@@ -1,0 +1,9 @@
+[package]
+name = "haihon-loader"
+version = "0.1.0"
+authors = ["Pyry Kontio <kontio@r.recruit.co.jp>"]
+edition = "2018"
+
+[dependencies]
+native-tls = "0.2.3"
+pq-sys = "0.4.6"
